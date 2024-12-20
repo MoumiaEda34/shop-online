@@ -1,0 +1,21 @@
+.footer-main {
+    width: 100%;
+    color: #fff;
+    float: left;
+    margin-top: 2em;
+}
+
+.footer-main ul li {
+    background: none;
+    list-style: none;
+    width: 33%;
+    float: left;
+    text-align: left;
+    padding: 1em 0em 1em 0em;
+}
+  
+  .footer-main a:hover {
+    color: #ffc107; /* Changes link color on hover */
+    text-decoration: underline; /* Adds underline on hover */
+  }
+  
